@@ -7,4 +7,4 @@ transmitter.
 
 This amplifier requires Low Pass Filters at its output to meet FCC requirements. I used Low Pass Filters from W6PQL (www.w6pql.com/a_1.5kw_lpf_for_160-6m.htm).
 
-Visit www.ad5gh.com for further details.
+Visit ad5gh.wordpress.com/mrf101-amplifier/ for further details.
